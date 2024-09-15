@@ -1,0 +1,11 @@
+Access Control Lab 5
+Url based access control can be circumvented
+
+Target Goal 
+* To access the admin panel and delete the user Carlos
+
+Steps 
+* Try to reach the admin panel.
+    They is an access denied to an authorised user 
+* Delete Carlos user 
+* Verify Carlos user has been deleted
